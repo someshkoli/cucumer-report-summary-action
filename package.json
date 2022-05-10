@@ -1,0 +1,11 @@
+{
+  "name": "cucumer-report-summary-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:someshkoli/cucumer-report-summary-action.git",
+  "author": "Somesh Koli <somesh.koli@headout.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.8.0"
+  }
+}
