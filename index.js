@@ -1,4 +1,4 @@
-import * as core from "@actions/core"
+const core = require("@actions/core")
 await core.summary
   .addHeading('Test Results')
   .addCodeBlock(generateTestResults(), "js")
